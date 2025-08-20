@@ -13,7 +13,6 @@ public class Main {
         Library library = new Library();
         library.addItem(book);
         library.addItem(magazine);
-
         library.showAllItems();
     }
 }
