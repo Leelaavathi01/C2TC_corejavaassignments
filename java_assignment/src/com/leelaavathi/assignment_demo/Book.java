@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment3;
+package com.leelaavathi.assignment_demo;
 
 public class Book extends Item {
     private String author;

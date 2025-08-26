@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment3;
+package com.leelaavathi.assignment_demo;
 
 public class Item {
 	    private int id;

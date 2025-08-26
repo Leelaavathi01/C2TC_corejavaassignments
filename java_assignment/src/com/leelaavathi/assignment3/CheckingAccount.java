@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment4;
+package com.leelaavathi.assignment3;
 
 public class CheckingAccount extends Account {
 

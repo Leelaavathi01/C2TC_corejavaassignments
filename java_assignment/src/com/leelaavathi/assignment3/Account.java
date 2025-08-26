@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment4;
+package com.leelaavathi.assignment3;
 
 public abstract class Account {
     protected String accountHolder;

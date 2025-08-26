@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment4;
+package com.leelaavathi.assignment3;
 
 public class SavingsAccount extends Account {
     private static final double MIN_BALANCE = 500.0;

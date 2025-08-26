@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment3;
+package com.leelaavathi.assignment_demo;
 
 public class Magazine extends Item {
     private int issueNumber;

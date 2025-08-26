@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment4;
+package com.leelaavathi.assignment3;
 
 public class Transaction {
     private final double transactionFee = 10.0;  // final variable

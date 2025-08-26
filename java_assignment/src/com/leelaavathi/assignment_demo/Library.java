@@ -1,4 +1,4 @@
-package com.leelaavathi.assignment3;
+package com.leelaavathi.assignment_demo;
 
 import java.util.ArrayList;
 
